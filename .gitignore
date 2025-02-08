@@ -1,0 +1,6 @@
+*.log
+*.html
+*.bak
+*.swp
+*.tmp
+.DS_Store
